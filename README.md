@@ -12,4 +12,4 @@ Kubernetes Orchestration: Deploying, exposing, scaling, and updating application
 CI/CD & Automation: Managing rolling updates and high availability with Kubernetes deployments.
 This showcases proficiency in Cloud Infrastructure, Kubernetes Management, and DevOps Automation—key skills for roles in Site Reliability Engineering (SRE), DevOps, and Cloud Engineering.
 
-🔗 Read the full article: [Deploy Backend API to Google Kubernetes Engine](https://dev.to/taiwrash/deploy-backend-api-to-google-kubernetes-engine-4i89-temp-slug-496178)
+🔗 Read the full article: [Deploy Backend API to Google Kubernetes Engine](https://dev.to/taiwrash/deploy-backend-api-to-google-kubernetes-engine-22oa)
